@@ -33,7 +33,7 @@ GenCraft leverages generative AI and automation to streamline content creation f
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/gencraft.git
+   git clone https://github.com/Shanavas-Rs/gencraft.git
    ```
 
 2. **Install dependencies:** (Refer to `requirements.txt` for specific versions)
